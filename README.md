@@ -79,7 +79,7 @@ This project is licensed under the ISC License.
 
 - Author: Affan khan
 - GitHub: [@mraffankhan](https://github.com/mraffankhan)
-- Live App: [Chat App on Render](https://chat-app-0b1m.onrender.com/)
+- Live App: [Chat App on Render](https://chat-app-065m.onrender.com/)
 
 ```
 
